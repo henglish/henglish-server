@@ -1,0 +1,13 @@
+{
+  "name": "henglish_server",
+  "version": "1.0.0",
+  "description": "Nodejs server for henglish learning platform",
+  "author": "Hoan Do <vanhoan90it6@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
